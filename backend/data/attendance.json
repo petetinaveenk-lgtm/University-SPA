@@ -1,0 +1,236 @@
+[
+  {
+    "id": "ATT-101",
+    "studentId": "STU-1001",
+    "studentName": "Alex Johnson",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-20",
+    "status": "Present",
+    "remarks": "Active participation"
+  },
+  {
+    "id": "ATT-102",
+    "studentId": "STU-1002",
+    "studentName": "Sophia Martinez",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-20",
+    "status": "Present",
+    "remarks": "On time"
+  },
+  {
+    "id": "ATT-103",
+    "studentId": "STU-1001",
+    "studentName": "Alex Johnson",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-22",
+    "status": "Present",
+    "remarks": "On time"
+  },
+  {
+    "id": "ATT-104",
+    "studentId": "STU-1002",
+    "studentName": "Sophia Martinez",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-22",
+    "status": "Absent",
+    "remarks": "Medical leave"
+  },
+  {
+    "id": "ATT-105",
+    "studentId": "STU-1001",
+    "studentName": "Alex Johnson",
+    "course": "Database Management Systems",
+    "date": "2026-10-21",
+    "status": "Present",
+    "remarks": "On time"
+  },
+  {
+    "id": "ATT-106",
+    "studentId": "STU-1003",
+    "studentName": "Liam Chen",
+    "course": "Digital Signal Processing",
+    "date": "2026-10-21",
+    "status": "Present",
+    "remarks": "Lab work completed"
+  },
+  {
+    "id": "ATT-107",
+    "studentId": "STU-1001",
+    "studentName": "Alex Johnson",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-26",
+    "status": "Absent",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-108",
+    "studentId": "STU-1002",
+    "studentName": "Sophia Martinez",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-26",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-109",
+    "studentId": "STU-1003",
+    "studentName": "Liam Chen",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-26",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-110",
+    "studentId": "STU-1004",
+    "studentName": "Emma Watson",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-26",
+    "status": "Absent",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-111",
+    "studentId": "STU-1005",
+    "studentName": "Noah Patel",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-26",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-112",
+    "studentId": "STU-1006",
+    "studentName": "Olivia Davis",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-26",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-113",
+    "studentId": "STU-1001",
+    "studentName": "Alex Johnson",
+    "course": "Web Programming",
+    "date": "2026-10-27",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-114",
+    "studentId": "STU-1002",
+    "studentName": "Sophia Martinez",
+    "course": "Web Programming",
+    "date": "2026-10-27",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-115",
+    "studentId": "STU-1003",
+    "studentName": "Liam Chen",
+    "course": "Web Programming",
+    "date": "2026-10-27",
+    "status": "Absent",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-116",
+    "studentId": "STU-1004",
+    "studentName": "Emma Watson",
+    "course": "Web Programming",
+    "date": "2026-10-27",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-117",
+    "studentId": "STU-1005",
+    "studentName": "Noah Patel",
+    "course": "Web Programming",
+    "date": "2026-10-27",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-118",
+    "studentId": "STU-1006",
+    "studentName": "Olivia Davis",
+    "course": "Web Programming",
+    "date": "2026-10-27",
+    "status": "Absent",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-119",
+    "studentId": "STU-1007",
+    "studentName": "Harshith Reddy",
+    "course": "Data Structures & Algorithms",
+    "date": "2026-10-26",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-120",
+    "studentId": "STU-1001",
+    "studentName": "Alex Johnson",
+    "course": "Strategic Management & Analytics",
+    "date": "2026-10-26",
+    "status": "Absent",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-121",
+    "studentId": "STU-1002",
+    "studentName": "Sophia Martinez",
+    "course": "Strategic Management & Analytics",
+    "date": "2026-10-26",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-122",
+    "studentId": "STU-1003",
+    "studentName": "Liam Chen",
+    "course": "Strategic Management & Analytics",
+    "date": "2026-10-26",
+    "status": "Absent",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-123",
+    "studentId": "STU-1004",
+    "studentName": "Emma Watson",
+    "course": "Strategic Management & Analytics",
+    "date": "2026-10-26",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-124",
+    "studentId": "STU-1005",
+    "studentName": "Noah Patel",
+    "course": "Strategic Management & Analytics",
+    "date": "2026-10-26",
+    "status": "Present",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-125",
+    "studentId": "STU-1006",
+    "studentName": "Olivia Davis",
+    "course": "Strategic Management & Analytics",
+    "date": "2026-10-26",
+    "status": "Absent",
+    "remarks": ""
+  },
+  {
+    "id": "ATT-126",
+    "studentId": "STU-1007",
+    "studentName": "Harshith Reddy",
+    "course": "Strategic Management & Analytics",
+    "date": "2026-10-26",
+    "status": "Absent",
+    "remarks": ""
+  }
+]

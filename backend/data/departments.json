@@ -1,0 +1,32 @@
+[
+  {
+    "id": "DEP-101",
+    "name": "Computer Science & Engineering",
+    "code": "CSE",
+    "description": "Department of Computer Science, Software Engineering, AI and Cloud Systems."
+  },
+  {
+    "id": "DEP-102",
+    "name": "Electronics & Communication",
+    "code": "ECE",
+    "description": "Department dealing with VLSI, Embedded Systems, Signal Processing and Telecom."
+  },
+  {
+    "id": "DEP-103",
+    "name": "Mechanical Engineering",
+    "code": "MECH",
+    "description": "Department focusing on Thermal Systems, Robotics, CAD/CAM and Manufacturing."
+  },
+  {
+    "id": "DEP-104",
+    "name": "Business Administration",
+    "code": "MBA",
+    "description": "School of Management focusing on Finance, Marketing, HR and Analytics."
+  },
+  {
+    "id": "DEP-105",
+    "name": "Artificial Intelligence",
+    "code": "AI",
+    "description": ""
+  }
+]

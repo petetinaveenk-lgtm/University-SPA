@@ -1,0 +1,62 @@
+[
+  {
+    "id": "TMT-101",
+    "day": "Monday",
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "course": "Data Structures & Algorithms",
+    "faculty": "Dr. Alan Turing",
+    "room": "Room 301",
+    "department": "Computer Science & Engineering"
+  },
+  {
+    "id": "TMT-102",
+    "day": "Monday",
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "course": "Database Management Systems",
+    "faculty": "Dr. Ada Lovelace",
+    "room": "Lab 2",
+    "department": "Computer Science & Engineering"
+  },
+  {
+    "id": "TMT-103",
+    "day": "Tuesday",
+    "startTime": "09:30",
+    "endTime": "11:00",
+    "course": "Digital Signal Processing",
+    "faculty": "Dr. Nikola Tesla",
+    "room": "Room 105",
+    "department": "Electronics & Communication"
+  },
+  {
+    "id": "TMT-104",
+    "day": "Wednesday",
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "course": "Thermodynamics & Heat Transfer",
+    "faculty": "Dr. James Watt",
+    "room": "Room 204",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "id": "TMT-105",
+    "day": "Thursday",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "course": "Strategic Management & Analytics",
+    "faculty": "Dr. Peter Drucker",
+    "room": "Seminar Hall A",
+    "department": "Business Administration"
+  },
+  {
+    "id": "TMT-106",
+    "day": "Monday",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "course": "Web Programming",
+    "faculty": "PETETI VENKATA NAVEEN KUMAR",
+    "room": "Room 109",
+    "department": "Computer Science & Engineering"
+  }
+]

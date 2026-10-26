@@ -1,0 +1,56 @@
+[
+  {
+    "id": "STU-1001",
+    "name": "Alex Johnson",
+    "email": "alex.johnson@student.university.edu",
+    "phone": "+1-555-0201",
+    "department": "Computer Science & Engineering",
+    "year": "3rd Year",
+    "enrollmentDate": "2023-08-15"
+  },
+  {
+    "id": "STU-1002",
+    "name": "Sophia Martinez",
+    "email": "sophia.martinez@student.university.edu",
+    "phone": "+1-555-0202",
+    "department": "Computer Science & Engineering",
+    "year": "2nd Year",
+    "enrollmentDate": "2024-08-20"
+  },
+  {
+    "id": "STU-1003",
+    "name": "Liam Chen",
+    "email": "liam.chen@student.university.edu",
+    "phone": "+1-555-0203",
+    "department": "Electronics & Communication",
+    "year": "4th Year",
+    "enrollmentDate": "2022-08-10"
+  },
+  {
+    "id": "STU-1004",
+    "name": "Emma Watson",
+    "email": "emma.watson@student.university.edu",
+    "phone": "+1-555-0204",
+    "department": "Mechanical Engineering",
+    "year": "1st Year",
+    "enrollmentDate": "2025-08-18"
+  },
+  {
+    "id": "STU-1005",
+    "name": "Noah Patel",
+    "email": "noah.patel@student.university.edu",
+    "phone": "+1-555-0205",
+    "department": "Business Administration",
+    "year": "2nd Year",
+    "enrollmentDate": "2024-09-01"
+  },
+  {
+    "id": "STU-1007",
+    "name": "Harshith Reddy",
+    "email": "harshith@gmail.com",
+    "phone": "673298636",
+    "department": "Business Administration",
+    "year": "2nd Year",
+    "enrollmentDate": "2026-10-26"
+  }
+]

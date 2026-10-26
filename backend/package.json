@@ -1,0 +1,20 @@
+{
+  "name": "university-backend",
+  "version": "1.0.0",
+  "description": "Node.js and Express REST API with JSON file persistence for University Management SPA",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "keywords": ["university", "spa", "express", "angular"],
+  "author": "University Admin",
+  "license": "ISC"
+}

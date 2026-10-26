@@ -1,0 +1,50 @@
+[
+  {
+    "id": "CRS-101",
+    "courseCode": "CS101",
+    "courseName": "Data Structures & Algorithms",
+    "department": "Computer Science & Engineering",
+    "credits": 4,
+    "facultyAssigned": "Dr. Alan Turing"
+  },
+  {
+    "id": "CRS-102",
+    "courseCode": "CS201",
+    "courseName": "Database Management Systems",
+    "department": "Computer Science & Engineering",
+    "credits": 3,
+    "facultyAssigned": "Dr. Ada Lovelace"
+  },
+  {
+    "id": "CRS-103",
+    "courseCode": "EC101",
+    "courseName": "Digital Signal Processing",
+    "department": "Electronics & Communication",
+    "credits": 4,
+    "facultyAssigned": "Dr. Nikola Tesla"
+  },
+  {
+    "id": "CRS-104",
+    "courseCode": "ME101",
+    "courseName": "Thermodynamics & Heat Transfer",
+    "department": "Mechanical Engineering",
+    "credits": 4,
+    "facultyAssigned": "Dr. James Watt"
+  },
+  {
+    "id": "CRS-105",
+    "courseCode": "BA101",
+    "courseName": "Strategic Management & Analytics",
+    "department": "Business Administration",
+    "credits": 3,
+    "facultyAssigned": "Dr. Peter Drucker"
+  },
+  {
+    "id": "CRS-106",
+    "courseCode": "CS107",
+    "courseName": "Web Programming",
+    "department": "Computer Science & Engineering",
+    "credits": 3,
+    "facultyAssigned": "PETETI VENKATA NAVEEN KUMAR"
+  }
+]

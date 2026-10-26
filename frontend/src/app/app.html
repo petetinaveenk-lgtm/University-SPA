@@ -1,0 +1,23 @@
+<div class="app-layout">
+  <!-- Toast Notification Container -->
+  <app-toast></app-toast>
+
+  <!-- Sidebar Navigation -->
+  <app-sidebar 
+    [isOpen]="sidebarOpen()" 
+    (closeSidebar)="closeSidebar()"
+  ></app-sidebar>
+
+  <!-- Main View Area -->
+  <div class="main-wrapper">
+    <!-- Top Nav Header -->
+    <app-navbar 
+      (toggleSidebar)="toggleSidebar()"
+    ></app-navbar>
+
+    <!-- Routed SPA Page Content -->
+    <main style="flex: 1; display: flex; flex-direction: column;">
+      <router-outlet></router-outlet>
+    </main>
+  </div>
+</div>

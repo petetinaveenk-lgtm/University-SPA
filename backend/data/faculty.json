@@ -1,0 +1,42 @@
+[
+  {
+    "id": "FAC-101",
+    "name": "Dr. Alan Turing",
+    "email": "alan.turing@university.edu",
+    "phone": "+1-555-0101",
+    "department": "Computer Science & Engineering",
+    "designation": "Professor"
+  },
+  {
+    "id": "FAC-102",
+    "name": "Dr. Ada Lovelace",
+    "email": "ada.lovelace@university.edu",
+    "phone": "+1-555-0102",
+    "department": "Computer Science & Engineering",
+    "designation": "Associate Professor"
+  },
+  {
+    "id": "FAC-103",
+    "name": "Dr. Nikola Tesla",
+    "email": "nikola.tesla@university.edu",
+    "phone": "+1-555-0103",
+    "department": "Electronics & Communication",
+    "designation": "Professor"
+  },
+  {
+    "id": "FAC-104",
+    "name": "Dr. James Watt",
+    "email": "james.watt@university.edu",
+    "phone": "+1-555-0104",
+    "department": "Mechanical Engineering",
+    "designation": "Professor"
+  },
+  {
+    "id": "FAC-106",
+    "name": "PETETI VENKATA NAVEEN KUMAR",
+    "email": "naveen@gmail.com",
+    "phone": "7842849246",
+    "department": "Computer Science & Engineering",
+    "designation": "Professor"
+  }
+]
